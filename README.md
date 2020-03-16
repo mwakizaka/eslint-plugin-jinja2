@@ -1,6 +1,6 @@
 工事中。急ぎの用事でだいぶ雑に作りました。
 内容はほとんど[こちら](https://stackoverflow.com/questions/57426699/using-eslint-with-a-templating-language)からのコピコードです。
-今のところ特に公開予定はありません。
+下の記述も、[ESLintのプラグイン作るツール](https://www.npmjs.com/package/generator-eslint)のテンプレです。 今のところ公開予定は特にありません。
 
 # eslint-plugin-jinja2
 
